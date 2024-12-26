@@ -1,5 +1,3 @@
-#OCaml Chess
-
 Installation and Run Instructions
 Make sure you have OCaml and OPAM installed. 
 
