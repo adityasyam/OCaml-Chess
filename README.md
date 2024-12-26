@@ -1,6 +1,8 @@
-#OCaml Chess
+**OCaml Chess**
 
-Installation and Run Instructions
+This is a repository to create a terminal-based game of Chess using OCaml.
+
+**Installation and Run Instructions**
 Make sure you have OCaml and OPAM installed. 
 
 1. Install ANSITerminal. 
